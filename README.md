@@ -30,9 +30,9 @@ This project demonstrates proficiency in several key Power BI functionalities an
 
 A short video demonstration showcasing the interactive features of the dashboard.
 
-[](https://youtu.be/pzl6N9Yt61Q)
+[Demo Video](https://youtu.be/pzl6N9Yt61Q)
 
 -----
 
 ### **Project Screenshot**
-![alt text](https://github.com/cihanfirat/PowerBI_Sales_Analytics/blob/main/Screenshot_pbi.png?raw=true)
+![](https://github.com/cihanfirat/PowerBI_Sales_Analytics/blob/main/Screenshot_pbi.png?raw=true)
